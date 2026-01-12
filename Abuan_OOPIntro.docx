@@ -1,0 +1,23 @@
+Cris Julian R. Abuan
+CC3 1-N
+
+1. What is Object-Oriented Programming (OOP)?
+Object-Oriented Programming is a style of programming that involves lumping data and actions into objects that organize software design rather than functions and logic.
+
+2. List the Four Pillars of OOP and briefly describe each
+• Encapsulation
+Encapsulation means bundling data (attributes) and the methods (functions) that operate on that data into a single unit or “object,” and hiding the internal details from the outside world.
+
+• Inheritance
+Inheritance is the process of one class inheriting properties and methods from another class in Java. This allows a new class (subclass) to inherit properties and behaviors (methods) from an existing class (parent class).
+
+• Polymorphism
+Polymorphism means “many forms.” It allows objects of different classes to be treated as objects of a common superclass. The functions behave differently depending on the implementations.
+
+• Abstraction
+Abstraction is about hiding complex implementation details and showing only the necessary features of an object. It focuses on what an object does rather than how it does it.
+
+3. Why is code quality important in OOP?
+Code quality is crucial in OOP for making robust, maintainable, and scalable software by ensuring the code is readable, efficient, and less error-prone, which reduces development cost and improves development speed and readability.
+
+
